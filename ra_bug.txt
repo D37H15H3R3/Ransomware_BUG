@@ -1,0 +1,15 @@
+HOW TO EASILY REMOVE AND CONTROL A RANSOMWARE
+BUG!!!
+--------------------------------------------
+1. Make a Administration user
+2. Ransomware attack started
+3. End all proccesses as fast as possible to 
+not get encrypted
+4. After the attack enter the actual user
+5. Then enter into your user again
+6. Download malwarebytes
+7. Quarantine all suspicious elements
+8. Restart
+9. And nothing is encrypted
+--------------------------------------------
+Thank you! I was-  D37H15H3R3...Goodbye!
